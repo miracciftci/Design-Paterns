@@ -1,4 +1,6 @@
 # Design-Paterns
+Design patterns yani tasarım kalıpları, yazılım geliştirmede yaygın olarak karşılaşılan zorluklar için geliştirilen, test edilmiş, kendini kanıtlamış kod tasarımlarıdır diyebiliriz.
+Tasarım kalıplarını ezberlememize gerek yok ama nerden geldiğini ve hangi problemi çözdüğünü bilmek önemli. Çünkü biz bir problemi çözerken aa şu tasarım kalıbı neydi açıp uygulayayım demiyoruz da probleme göre kalıpları harmanlayıp en optimum şekilde problemi çözüyoruz.
 
 ## A- Creational (Yaratıcı) Design Paterns
 - 1- Singleton Design Pattern
