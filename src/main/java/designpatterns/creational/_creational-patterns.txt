@@ -1,0 +1,5 @@
+Abstract Factory (Soyut Fabrika): Nesnelerin somut türlerini belirtmeden oluşturulmasına olanak tanır.
+Builder (Yapıcı): Karmaşık nesneler oluşturmak için kullanılır.
+Factory Method (Fabrika Yöntemi): Hangi sınıfın nesnesinin oluşturulacağını belirtmeden nesneler oluşturur.
+Prototype (Prototip): Mevcut bir nesneden yeni bir nesne oluşturur.
+Singleton (Tekil): Bir nesnenin yalnızca bir örneğinin oluşturulmasını garanti eder.
