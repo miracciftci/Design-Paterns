@@ -1,5 +1,7 @@
 package designpatterns.structural;
 
+// Karmaşık bir sistemin daha basit bir arayüzle kontrol edilmesini sağlar.
+
 public class Facade {
 
     class Video {

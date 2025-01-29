@@ -3,6 +3,8 @@ package designpatterns.structural;
 import java.util.Arrays;
 import java.util.List;
 
+// Bir nesnenin davranışını alt sınıflar oluşturmadan dinamik olarak değiştirmek için kullanılır.
+
 public class Decorator {
 
     interface Priceable{

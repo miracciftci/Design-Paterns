@@ -3,6 +3,8 @@ package designpatterns.structural;
 import java.util.List;
 import java.util.Optional;
 
+// Bellek tasarrufu yapmak için ortak nesnelerin yeniden kullanılmasını sağlar.
+
 public class Flyweight {
 
     class Skin {}

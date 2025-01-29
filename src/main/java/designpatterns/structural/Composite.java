@@ -6,6 +6,8 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+// Bir nesne grubu ile tek bir nesneyi aynı şekilde işlemeye olanak tanır.
+
 public class Composite {
 
     abstract class Department{

@@ -1,5 +1,14 @@
 package designpatterns.creational;
 
+/*
+Karmaşık nesnelerin oluşturulmasını adım adım bir şekilde organize eder.
+Bu desende, nesne oluşturma işlemi bir Builder sınıfına devredilir ve bu sınıf,
+nesnenin parçalarını adım adım oluşturur.
+
+Builder Pattern, özellikle adım adım yapılandırılması gereken karmaşık nesnelerde etkili bir çözüm sunar.
+Bu desen, kodun esnekliğini ve bakım kolaylığını artırırken daha okunabilir bir yapı sağlar.
+ */
+
 class Employee{
     private final String firstName;     //required
     private final String lastName;      //required

@@ -3,6 +3,13 @@ package designpatterns.creational;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+İlgili nesne ailelerini oluşturmak için bir arabirim sağlar ve istemcinin bu nesnelerin hangi
+somut sınıftan geldiğini bilmesini gerektirmez. Bu desen, birden fazla fabrika metodunun birleşimi
+olarak düşünülebilir.
+ */
+
+
 interface Ingredient{
     String name();
 }
